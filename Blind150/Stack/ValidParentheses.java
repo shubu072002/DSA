@@ -1,9 +1,12 @@
-package Blind75.Stack;
+package Blind150.Stack;
 
+import com.sun.istack.internal.NotNull;
+
+import java.util.Scanner;
 import java.util.Stack;
 
 public class ValidParentheses {
-    public boolean isValid(String s) {
+    public static boolean isValid(String s) {
 
         int n = s.length();
         if(n%2!=0){
@@ -37,5 +40,12 @@ public class ValidParentheses {
         }
 
        return (stack.size()==0);
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your String");
+        String str = sc.next();
+        System.out.println(isValid(str));
     }
 }
