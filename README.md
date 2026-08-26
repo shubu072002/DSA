@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubu072002/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubu072002/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
