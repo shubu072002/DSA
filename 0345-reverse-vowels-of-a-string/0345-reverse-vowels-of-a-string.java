@@ -21,6 +21,6 @@ class Solution {
                 }
             }
         }
-        return new String(arr);
+        return String.valueOf(arr);
     }
 }
