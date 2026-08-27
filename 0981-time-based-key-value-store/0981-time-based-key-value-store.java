@@ -1,69 +1,62 @@
-class TimeStampedValue {
-  public int timestamp;
-  public String value;
-
-  public TimeStampedValue(int timestamp, String value) {
-    this.timestamp = timestamp;
-    this.value = value;
-  }
+class timeValueStamp{
+    String value;
+    int timeStamp;
+    
+    public timeValueStamp(String value, int timeStamp){
+        this.value=value;
+        this.timeStamp = timeStamp;
+    }
 }
-
 class TimeMap {
-  Map<String, ArrayList<TimeStampedValue>> entriesByKey;
+    
+    HashMap<String,ArrayList<timeValueStamp>> map;
 
-  public TimeMap() {
-    // Constructor to initialize the TimeMap object
-    entriesByKey = new HashMap<>();
-  }
-
-  public void set(String key, String value, int timestamp) {
-    // Implementation for setting the value at a specific timestamp
-    if(!entriesByKey.containsKey(key)) {
-      entriesByKey.put(key, new ArrayList<>());
+    public TimeMap() {
+        this.map = new HashMap<>();
     }
-    ArrayList<TimeStampedValue> timeStampedValues = entriesByKey.get(key);
-    timeStampedValues.add(new TimeStampedValue(timestamp, value));
-  }
-
-  public String get(String key, int timestamp) {
-    if(!entriesByKey.containsKey(key)) return "";
-
-    ArrayList<TimeStampedValue> timeStampedValues = entriesByKey.get(key);
-       TimeStampedValue timeStamp =
-        binarySearchTimestamp(timeStampedValues, timestamp);
-    if(timeStamp==null) {
-      return "";
+    
+    public void set(String key, String value, int timestamp) {
+        if(!map.containsKey(key)){
+            map.put(key,new ArrayList<>());
+        }
+        ArrayList<timeValueStamp> list=map.get(key);
+        list.add(new timeValueStamp(value,timestamp));
     }
-
-    return timeStamp.value;
-  }
-
-  private TimeStampedValue binarySearchTimestamp(
-      ArrayList<TimeStampedValue> arr, int target) {
-    int left = 0, right = arr.size() - 1;
-    int matchIndex = -1;
-
-    while (left <= right) {
-      int mid = left + (right - left) / 2;
-      TimeStampedValue cur = arr.get(mid);
-      if(cur.timestamp == target){
-          matchIndex = mid;
-          return arr.get(matchIndex);
-      }
-      else if(cur.timestamp < target) {
-        matchIndex = mid;
-        left = mid + 1;
-      }
-      else {
-        right = mid - 1;
-      }
+    
+    public String get(String key, int timestamp) {
+       if(!map.containsKey(key)){
+        return "";
+       } 
+       ArrayList<timeValueStamp> list=map.get(key);
+       timeValueStamp curr = binarySearch(list, timestamp);
+       if(curr==null){
+        return "";
+       }
+       return curr.value;
     }
-
-    if(matchIndex == -1) {
-      return null;
+    public timeValueStamp binarySearch(ArrayList<timeValueStamp> list, int timestamp){
+        int start = 0;
+        int end = list.size()-1;
+        int matchIdx = -1;
+        while(start<=end){
+            int mid = start + (end-start)/2;
+            timeValueStamp curr=list.get(mid);
+            if(curr.timeStamp==timestamp){
+                return curr;
+            }
+            else if (curr.timeStamp<timestamp){
+               matchIdx = mid;
+               start= mid +1;
+            }
+            else{
+                end = mid -1;
+            }
+        }
+        if(matchIdx==-1){
+            return null;
+        }
+        return list.get(matchIdx);
     }
-    return arr.get(matchIndex);
-  }
 }
 
 /**
