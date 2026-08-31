@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubu072002/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubu072002/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubu072002/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubu072002/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shubu072002/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubu072002/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shubu072002/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shubu072002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shubu072002/DSA/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
