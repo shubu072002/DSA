@@ -12,7 +12,7 @@ class Solution {
                     endIdx = nextIdxOfCurrChar;
                 }
             }
-            res.add(endIdx-i+1);
+            res.add(endIdx-startIdx+1);
             i=endIdx+1;
         }
         return res;
