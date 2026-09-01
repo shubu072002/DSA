@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
 ## Sorting
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shubu072002/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubu072002/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/shubu072002/DSA/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
@@ -169,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubu072002/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
