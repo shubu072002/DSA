@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shubu072002/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/shubu072002/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3731-find-missing-elements](https://github.com/shubu072002/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/shubu072002/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
