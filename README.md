@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubu072002/DSA/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/shubu072002/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubu072002/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/shubu072002/DSA/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
