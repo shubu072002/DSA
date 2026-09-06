@@ -22,12 +22,9 @@ class Solution {
         int y =0;
         if(i<s.length() && j<t.length() && s.charAt(i)==t.charAt(j)){
             x=helper(s,t,i+1,j+1,dp);
-            y=helper(s,t,i+1,j,dp);
-            return dp[i][j] = x+y;
         }
-        else{
-            return dp[i][j]= helper(s,t,i+1,j,dp);
-        }
+         y = helper(s,t,i+1,j,dp);
+         return dp[i][j]= x+y;
 
     }
 }
