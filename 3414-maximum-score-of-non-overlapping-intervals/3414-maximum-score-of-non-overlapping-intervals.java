@@ -1,22 +1,25 @@
+class Result {
+
+    long score;
+    List<Integer> indices;
+
+    Result(long score, List<Integer> indices) {
+        this.score = score;
+        this.indices = indices;
+    }
+}
+
+
 class Solution {
 
     int n;
     int[][] intervals;
     int[] nextIdx;
 
-    static class Result {
-        long score;
-        List<Integer> indices;
-
-        Result(long score, List<Integer> indices) {
-            this.score = score;
-            this.indices = indices;
-        }
-    }
-
     Result[][] dp;
 
-    // Find first interval whose start > current end
+
+    // Find first interval whose start > current interval's end
     int findNext(int i) {
 
         int end = intervals[i][1];
@@ -38,6 +41,7 @@ class Solution {
         return lo;
     }
 
+
     boolean lexicographicallySmaller(
             List<Integer> a,
             List<Integer> b) {
@@ -54,9 +58,10 @@ class Solution {
         return a.size() < b.size();
     }
 
+
     Result solve(int i, int k) {
 
-        // No intervals allowed
+        // No interval can be selected
         if (k == 0 || i >= n) {
             return new Result(
                     0,
@@ -64,20 +69,22 @@ class Solution {
             );
         }
 
+        // Already calculated
         if (dp[i][k] != null) {
             return dp[i][k];
         }
 
-        // ----------------
-        // 1. SKIP
-        // ----------------
+
+        // =================
+        // SKIP
+        // =================
 
         Result skip = solve(i + 1, k);
 
 
-        // ----------------
-        // 2. TAKE
-        // ----------------
+        // =================
+        // TAKE
+        // =================
 
         int next = nextIdx[i];
 
@@ -86,10 +93,11 @@ class Solution {
         List<Integer> takeIndices =
                 new ArrayList<>(nextResult.indices);
 
+        // Original index
         takeIndices.add(intervals[i][3]);
 
-        // Important:
-        // Answer indices must be sorted
+        // Answer should be lexicographically compared
+        // using sorted original indices
         Collections.sort(takeIndices);
 
         Result take = new Result(
@@ -98,9 +106,9 @@ class Solution {
         );
 
 
-        // ----------------
-        // Compare
-        // ----------------
+        // =================
+        // CHOOSE BEST
+        // =================
 
         Result result;
 
@@ -127,6 +135,7 @@ class Solution {
             }
         }
 
+
         dp[i][k] = result;
 
         return result;
@@ -139,6 +148,7 @@ class Solution {
         n = intervalsList.size();
 
         intervals = new int[n][4];
+
 
         // [start, end, weight, originalIndex]
         for (int i = 0; i < n; i++) {
@@ -156,7 +166,7 @@ class Solution {
         }
 
 
-        // Sort by start
+        // Sort according to start
         Arrays.sort(
                 intervals,
                 (a, b) -> Integer.compare(a[0], b[0])
@@ -178,7 +188,7 @@ class Solution {
         Result result = solve(0, 4);
 
 
-        // Convert List<Integer> -> int[]
+        // Convert List<Integer> to int[]
         int[] ans = new int[result.indices.size()];
 
         for (int i = 0; i < ans.length; i++) {
