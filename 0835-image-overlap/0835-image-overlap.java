@@ -1,46 +1,30 @@
 class Solution {
+    public int countOverlaps(int[][] A, int[][] B, int rowOff, int colOff) {
+        int n = A.length;
+        int count = 0;
+
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+                if (row + rowOff < 0 || row + rowOff >= n || col + colOff < 0 || col + colOff >= n)
+                    continue;
+
+                count += A[row][col] * B[row + rowOff][col + colOff];
+            }
+        }
+
+        return count;
+    }
+
     public int largestOverlap(int[][] img1, int[][] img2) {
-
         int n = img1.length;
+        int maxOverlap = 0;
 
-        List<int[]> ones1 = new ArrayList<>();
-        List<int[]> ones2 = new ArrayList<>();
-
-        // Store coordinates of 1s in img1
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-
-                if (img1[i][j] == 1) {
-                    ones1.add(new int[]{i, j});
-                }
-
-                if (img2[i][j] == 1) {
-                    ones2.add(new int[]{i, j});
-                }
+        for (int rowOff = -n + 1; rowOff < n; rowOff++) {
+            for (int colOff = -n + 1; colOff < n; colOff++) {
+                maxOverlap = Math.max(maxOverlap, countOverlaps(img1, img2, rowOff, colOff));
             }
         }
 
-        Map<String, Integer> map = new HashMap<>();
-
-        int answer = 0;
-
-        // Try every pair of 1s
-        for (int[] p1 : ones1) {
-            for (int[] p2 : ones2) {
-
-                int dx = p2[0] - p1[0];
-                int dy = p2[1] - p1[1];
-
-                String key = dx + "," + dy;
-
-                int count = map.getOrDefault(key, 0) + 1;
-
-                map.put(key, count);
-
-                answer = Math.max(answer, count);
-            }
-        }
-
-        return answer;
+        return maxOverlap;
     }
 }
