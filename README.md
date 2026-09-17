@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/shubu072002/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubu072002/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shubu072002/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubu072002/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubu072002/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/shubu072002/DSA/tree/master/0981-time-based-key-value-store) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubu072002/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubu072002/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubu072002/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/shubu072002/DSA/tree/master/3731-find-missing-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubu072002/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shubu072002/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/shubu072002/DSA/tree/master/0981-time-based-key-value-store) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubu072002/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubu072002/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubu072002/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubu072002/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shubu072002/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubu072002/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shubu072002/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubu072002/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubu072002/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
