@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubu072002/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shubu072002/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubu072002/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shubu072002/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shubu072002/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/shubu072002/DSA/tree/master/0981-time-based-key-value-store) |
 | [1096-brace-expansion-ii](https://github.com/shubu072002/DSA/tree/master/1096-brace-expansion-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shubu072002/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/shubu072002/DSA/tree/master/0853-car-fleet) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/shubu072002/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubu072002/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubu072002/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubu072002/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubu072002/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubu072002/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
