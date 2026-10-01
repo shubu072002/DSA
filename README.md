@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shubu072002/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/shubu072002/DSA/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/shubu072002/DSA/tree/master/0881-boats-to-save-people) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shubu072002/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubu072002/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubu072002/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shubu072002/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shubu072002/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubu072002/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubu072002/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubu072002/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubu072002/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shubu072002/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shubu072002/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubu072002/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubu072002/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubu072002/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shubu072002/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubu072002/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubu072002/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubu072002/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shubu072002/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubu072002/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
 |  |
