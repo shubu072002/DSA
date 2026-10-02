@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shubu072002/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubu072002/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shubu072002/DSA/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/shubu072002/DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubu072002/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
