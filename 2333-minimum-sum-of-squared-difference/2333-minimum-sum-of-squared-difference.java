@@ -26,8 +26,8 @@ class Solution {
         }
 
         long result = 0;
-        for (long d = 1; d <= maxDiff; d++) {
-            result += countDiff[(int) d] * d * d;
+        for (int d = 1; d <= maxDiff; d++) {
+            result += countDiff[d] * (long)d * d;
         }
 
         return result;
