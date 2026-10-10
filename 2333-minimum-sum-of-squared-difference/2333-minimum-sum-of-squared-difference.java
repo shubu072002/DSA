@@ -18,7 +18,7 @@ class Solution {
         long K = (long) k1 + k2;
 
         for (int currDiff = maxDiff; currDiff > 0 && K > 0; currDiff--) {
-            int countOps = (int) Math.min(countDiff[currDiff], K);
+            long countOps =  Math.min(countDiff[currDiff], K);
 
             countDiff[currDiff]     -= countOps;
             countDiff[currDiff - 1] += countOps;
