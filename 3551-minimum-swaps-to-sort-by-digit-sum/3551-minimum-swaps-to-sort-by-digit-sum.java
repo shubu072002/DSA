@@ -1,6 +1,59 @@
-class Solution {
 
-    private int getDigitSum(int num) {
+import java.util.*;
+
+class Solution {
+    public int minSwaps(int[] nums) {
+        int n = nums.length;
+        int[][] arr = new int[n][2];
+
+        // Store digit sum and original number
+        for (int i = 0; i < n; i++) {
+            arr[i][0] = digitSum(nums[i]);
+            arr[i][1] = nums[i];
+        }
+
+        // Sort by digit sum, then by number
+        Arrays.sort(arr, (a, b) -> {
+            if (a[0] != b[0]) {
+                return Integer.compare(a[0], b[0]);
+            }
+            return Integer.compare(a[1], b[1]);
+        });
+
+        // Map each number to its correct index
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < n; i++) {
+            map.put(arr[i][1], i);
+        }
+
+        boolean[] visited = new boolean[n];
+        int swaps = 0;
+
+        // Count cycles
+        for (int i = 0; i < n; i++) {
+            if (visited[i]) {
+                continue;
+            }
+
+            int j = i;
+            int cycleSize = 0;
+
+            while (!visited[j]) {
+                visited[j] = true;
+                j = map.get(nums[j]);
+                cycleSize++;
+            }
+
+            if (cycleSize > 1) {
+                swaps += cycleSize - 1;
+            }
+        }
+
+        return swaps;
+    }
+
+    private int digitSum(int num) {
         int sum = 0;
 
         while (num > 0) {
@@ -9,52 +62,5 @@ class Solution {
         }
 
         return sum;
-    }
-
-    private int compareByDigitSum(int num1, int num2) {
-        int num1DigitSum = getDigitSum(num1);
-        int num2DigitSum = getDigitSum(num2);
-
-        if (num1DigitSum != num2DigitSum) {
-            return Integer.compare(num1DigitSum, num2DigitSum);
-        }
-
-        return Integer.compare(num1, num2);
-    }
-
-    public int minSwaps(int[] nums) {
-        int n = nums.length;
-
-        Integer[] afterSorted = new Integer[n];
-        for (int i = 0; i < n; i++) {
-            afterSorted[i] = nums[i];
-        }
-
-        Arrays.sort(afterSorted, this::compareByDigitSum);
-
-        Map<Integer, Integer> valToIdx = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            valToIdx.put(nums[i], i);
-        }
-
-        int swapCount = 0;
-        for (int i = 0; i < n; i++) {
-            int expectedVal = afterSorted[i];
-            int currVal = nums[i];
-
-            if (expectedVal == currVal) continue;
-
-            int idx = valToIdx.get(expectedVal);
-
-            nums[i] = expectedVal;
-            nums[idx] = currVal;
-
-            valToIdx.put(expectedVal, i);
-            valToIdx.put(currVal, idx);
-
-            swapCount++;
-        }
-
-        return swapCount;
     }
 }
