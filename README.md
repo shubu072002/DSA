@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubu072002/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubu072002/DSA/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/shubu072002/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubu072002/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shubu072002/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shubu072002/DSA/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/shubu072002/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shubu072002/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubu072002/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/shubu072002/DSA/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/shubu072002/DSA/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubu072002/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubu072002/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
