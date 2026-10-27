@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shubu072002/DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/shubu072002/DSA/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/shubu072002/DSA/tree/master/0853-car-fleet) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubu072002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shubu072002/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubu072002/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubu072002/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shubu072002/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/shubu072002/DSA/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/shubu072002/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shubu072002/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shubu072002/DSA/tree/master/1254-number-of-closed-islands) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/shubu072002/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/shubu072002/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/shubu072002/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shubu072002/DSA/tree/master/1254-number-of-closed-islands) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shubu072002/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubu072002/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shubu072002/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
