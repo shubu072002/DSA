@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shubu072002/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shubu072002/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/shubu072002/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shubu072002/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shubu072002/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shubu072002/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/shubu072002/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/shubu072002/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shubu072002/DSA/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shubu072002/DSA/tree/master/1254-number-of-closed-islands) |
@@ -484,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubu072002/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/shubu072002/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
