@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shubu072002/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubu072002/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shubu072002/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shubu072002/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shubu072002/DSA/tree/master/0289-game-of-life) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shubu072002/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shubu072002/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shubu072002/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shubu072002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
@@ -544,8 +547,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubu072002/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubu072002/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
