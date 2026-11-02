@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shubu072002/DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubu072002/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubu072002/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/shubu072002/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shubu072002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubu072002/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shubu072002/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubu072002/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/shubu072002/DSA/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/shubu072002/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/shubu072002/DSA/tree/master/0853-car-fleet) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shubu072002/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shubu072002/DSA/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shubu072002/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubu072002/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/shubu072002/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shubu072002/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shubu072002/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
