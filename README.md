@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubu072002/DSA/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/shubu072002/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shubu072002/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/shubu072002/DSA/tree/master/0242-valid-anagram) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/shubu072002/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shubu072002/DSA/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/shubu072002/DSA/tree/master/0322-coin-change) |
