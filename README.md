@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubu072002/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shubu072002/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubu072002/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/shubu072002/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shubu072002/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shubu072002/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubu072002/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubu072002/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shubu072002/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shubu072002/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shubu072002/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shubu072002/DSA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/shubu072002/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubu072002/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shubu072002/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shubu072002/DSA/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/shubu072002/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/shubu072002/DSA/tree/master/0097-interleaving-string) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubu072002/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shubu072002/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubu072002/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shubu072002/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/shubu072002/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubu072002/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubu072002/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shubu072002/DSA/tree/master/0402-remove-k-digits) |
 | [0853-car-fleet](https://github.com/shubu072002/DSA/tree/master/0853-car-fleet) |
