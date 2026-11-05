@@ -17,10 +17,10 @@ class Solution {
                     temp.add(nums[k]);
                     res.add(temp);
                     
-                    while(j<k && nums[j+1]==nums[j]){
+                    while(j+1<k && nums[j+1]==nums[j]){
                         j++;
                     }
-                    while(k>j && nums[k-1]==nums[k]){
+                    while(k-1>j && nums[k-1]==nums[k]){
                         k--;
                     }
                     j++;
