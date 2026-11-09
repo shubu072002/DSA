@@ -27,7 +27,7 @@ class Solution {
            }
            else{
               if(l1>r2){
-             end = cut1;
+             end = cut1-1;
            }
            else{
              start = cut1 +1;
