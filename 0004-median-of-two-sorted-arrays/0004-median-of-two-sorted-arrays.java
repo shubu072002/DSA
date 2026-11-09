@@ -15,7 +15,7 @@ class Solution {
            int l1 = (cut1==0)?Integer.MIN_VALUE:nums1[cut1-1];
            int l2 = (cut2==0)?Integer.MIN_VALUE:nums2[cut2-1];
            int r1 = (cut1==n)?Integer.MAX_VALUE:nums1[cut1];
-           int r2 = (cut2==n)?Integer.MAX_VALUE:nums2[cut2];
+           int r2 = (cut2==m)?Integer.MAX_VALUE:nums2[cut2];
 
            if(l1<=r2 && l2<=r1){
              if(N%2!=0){
@@ -27,7 +27,7 @@ class Solution {
            }
            else{
               if(l1>r2){
-             end = cut1-1;
+             end = cut1;
            }
            else{
              start = cut1 +1;
